@@ -12,7 +12,7 @@ Detailed information:
 
 So our aim is to fill the codeword correctly.
 
-It will display the incorrect guess by you, and the codeword to the extent you guessed correctly and rest with underscores suggesting empty letters to be filled with correct guesses.
+On the display you will have the total incorrect guesses by you and the codeword letters to the extent you guessed correctly and rest with underscores suggesting empty letters to be filled with correct guesses.
 
 The tractor beam of UFO pulls the person more into it with more incorrect guesses.
 
